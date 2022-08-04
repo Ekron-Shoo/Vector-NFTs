@@ -73,6 +73,6 @@ Or Download the Files and Run `index.html`
 
 Ekveer Sahoo- EkronShoo#1613- ekveersahoo@icloud.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Github Profile: https://github.com/Ekron-Shoo
 
-<p align="right">(<a href="#readme-top"Back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back To Top</a>)</p>
